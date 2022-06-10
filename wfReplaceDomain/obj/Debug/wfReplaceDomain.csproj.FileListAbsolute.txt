@@ -1,0 +1,11 @@
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\bin\Debug\wfReplaceDomain.exe.config
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\bin\Debug\wfReplaceDomain.exe
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\bin\Debug\wfReplaceDomain.pdb
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\obj\Debug\wfReplaceDomain.csproj.AssemblyReference.cache
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\obj\Debug\wfReplaceDomain.csproj.SuggestedBindingRedirects.cache
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\obj\Debug\wfReplaceDomain.Form1.resources
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\obj\Debug\wfReplaceDomain.Properties.Resources.resources
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\obj\Debug\wfReplaceDomain.csproj.GenerateResource.cache
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\obj\Debug\wfReplaceDomain.csproj.CoreCompileInputs.cache
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\obj\Debug\wfReplaceDomain.exe
+C:\Users\namlp\Desktop\Test\wfReplaceDomain\wfReplaceDomain\obj\Debug\wfReplaceDomain.pdb
